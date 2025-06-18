@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>menambahkan produk ke cart</description>
+   <name>CAT_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78b77300-230d-486c-b75c-68fb28928808</testCaseGuid>
+</TestCaseEntity>

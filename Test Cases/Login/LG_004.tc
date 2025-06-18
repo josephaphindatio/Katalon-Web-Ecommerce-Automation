@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>without password</description>
+   <name>LG_004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2746a8c8-3fe2-4b6b-944b-7095fed67993</testCaseGuid>
+</TestCaseEntity>

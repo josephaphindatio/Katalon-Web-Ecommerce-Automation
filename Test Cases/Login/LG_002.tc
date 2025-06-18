@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user / password salah</description>
+   <name>LG_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4c4cc22-1948-495e-b1a1-0c3ed32ea967</testCaseGuid>
+</TestCaseEntity>

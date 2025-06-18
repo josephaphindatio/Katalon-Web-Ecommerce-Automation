@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sauce Labs Backpackcarry.allTheThings()_a0841a</name>
+   <tag></tag>
+   <elementGuidId>2fe664d8-0463-476c-9793-dfb98fb9179e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cart_item_label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart_contents_container']/div/div/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack tha&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f6de2c6-0537-44b7-b4e3-6ba2253c0e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart_item_label</value>
+      <webElementGuid>7ae8e7fb-7edb-42df-ae20-d0e1e3d5b3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Remove</value>
+      <webElementGuid>22d74561-26e8-4365-8c37-9d9fcf96dc9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_contents_container&quot;)/div[1]/div[@class=&quot;cart_list&quot;]/div[@class=&quot;cart_item&quot;]/div[@class=&quot;cart_item_label&quot;]</value>
+      <webElementGuid>77b6cac7-05a1-41fb-8d55-8552110ed2d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_contents_container']/div/div/div[3]/div[2]</value>
+      <webElementGuid>289badd8-c8a3-4038-95d3-b43b6be03f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::div[3]</value>
+      <webElementGuid>29c1e6b1-e4f8-4dec-9bfe-50a88dc0a3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/following::div[4]</value>
+      <webElementGuid>ede8aba7-d1db-4b1b-8daa-733469675a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>51bb97a8-bbd7-4ce8-92a8-bfb5e3d9c1eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Remove' or . = 'Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Remove')]</value>
+      <webElementGuid>a5f26f99-38be-4038-9c9a-54ae5e38568d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

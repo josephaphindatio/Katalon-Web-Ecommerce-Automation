@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sauce Labs Fleece JacketIts not every d_2c6a4b</name>
+   <tag></tag>
+   <elementGuidId>5dd965f0-9d59-4765-a824-7dae674f50d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart_contents_container']/div/div/div[6]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Sauce Labs Fleece JacketIt's not every day that you come across a midweight quar&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09e9f70e-88a6-4076-8b14-802ca71d73d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart_item_label</value>
+      <webElementGuid>acd04595-4e0a-44f8-b2b2-67a4c2d54677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sauce Labs Fleece JacketIt's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.$49.99Remove</value>
+      <webElementGuid>043f6fbb-d6c5-4c77-a1ac-a03acd0b9e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_contents_container&quot;)/div[1]/div[@class=&quot;cart_list&quot;]/div[@class=&quot;cart_item&quot;]/div[@class=&quot;cart_item_label&quot;]</value>
+      <webElementGuid>57fb49a6-1eee-4d60-bb16-21e2195112da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_contents_container']/div/div/div[6]/div[2]</value>
+      <webElementGuid>35913080-d160-4a6b-b123-be28e6db00f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[3]/following::div[3]</value>
+      <webElementGuid>4e812d13-f2bb-4f74-b2bf-6f9bd69751fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.99'])[1]/following::div[3]</value>
+      <webElementGuid>664936c8-1b21-48e1-b3bf-3a57cb47b2dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]</value>
+      <webElementGuid>fc38be7e-0733-4ae0-9509-a22e11964828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Sauce Labs Fleece JacketIt&quot; , &quot;'&quot; , &quot;s not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.$49.99Remove&quot;) or . = concat(&quot;Sauce Labs Fleece JacketIt&quot; , &quot;'&quot; , &quot;s not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.$49.99Remove&quot;))]</value>
+      <webElementGuid>98c85659-1d7e-46c6-811f-c717fe6d127c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

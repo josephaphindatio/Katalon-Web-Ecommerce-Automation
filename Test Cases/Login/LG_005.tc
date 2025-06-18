@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Script less?</description>
+   <name>LG_005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e533cb25-d325-46b5-b4de-23ec6d458f1c</testCaseGuid>
+</TestCaseEntity>
