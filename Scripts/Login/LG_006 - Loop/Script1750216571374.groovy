@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+for (int i; i<3; i++) {
+	
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
 WebUI.click(findTestObject('Object Repository/Login Test/LG_001 - valid/Page_Swag Labs/input_Swag Labs_user-name'))
@@ -29,6 +31,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login Test/LG_001 - val
     'qcu24s4901FyWDTwXGr6XA==')
 
 WebUI.click(findTestObject('Object Repository/Login Test/LG_001 - valid/Page_Swag Labs/input_Swag Labs_login-button'))
+
+}
 
 WebUI.closeBrowser()
 
